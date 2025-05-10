@@ -8,8 +8,4 @@ git diff
 git sampel
 
 
-<<<<<<< HEAD
-=======
 
-
->>>>>>> main
